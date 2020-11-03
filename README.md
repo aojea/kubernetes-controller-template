@@ -1,1 +1,3 @@
-# kubernetes-controller-template
+# services controller
+
+Controller for services
